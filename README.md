@@ -91,7 +91,7 @@ Currently evolving into Data Science & Machine Learning by building real-world p
 
 ## 🤝 Let's Connect
 
-🔗 LinkedIn: *[Add your LinkedIn link]*  
+🔗 LinkedIn: www.linkedin.com/in/balachandarsuresh 
 📧 Email: balachandar2411@gmail.com  
 
 💬 I'm open to Data Analyst / Data Science opportunities, collaborations, and knowledge sharing.
