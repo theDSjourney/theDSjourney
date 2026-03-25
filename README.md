@@ -1,78 +1,104 @@
-# 👋 Hey there, I'm Balachandar — Welcome to **theDSjourney**
+# 👋 Hey there, I'm Balachandar — Data Analyst | Aspiring Data Scientist
 
-I'm on a mission to grow into a strong **Data Science & Machine Learning professional** — building consistency, curiosity, and clarity with every dataset I touch.
+I have 4.8+ years of experience transforming raw data into actionable insights using SQL, Python, and Power BI.
+
+Currently evolving into Data Science & Machine Learning by building real-world projects and scalable data solutions.
 
 ---
 
 ## 🚀 About Me
 
-🎓 Completed my MBA in Finance & Marketing  
-💼 Started my career at **ICICI Bank** as a Business Trainee  
-📈 Progressed to **Axis Bank** as a Relationship Manager, where I worked closely with customer portfolios and financial data  
-🌍 Moved to **Canada** to pursue higher studies in **FinTech**  
-🏢 Currently working at **Definity Financial Corporation** as an **Auto Claims Adjuster**
+• MBA in Finance & Marketing  
+• 4.8+ years of experience as a Data Analyst  
+• Worked in domains: E-commerce, Retail, Healthcare Analytics  
+• Strong expertise in SQL, Python, Power BI, and Tableau  
+• Experienced in data cleaning, EDA, dashboarding, and business insights  
+
+💡 **What I do:**
+- Transform raw data into meaningful insights  
+- Perform root cause analysis to solve business problems  
+- Build dashboards to track KPIs and performance  
+- Automate workflows using Python  
+
+📈 **Impact:**
+- Reduced manual reporting effort by 25%  
+- Improved inventory efficiency & reduced stockouts  
+- Analyzed claim denial patterns to optimize revenue cycle  
 
 ---
 
-Throughout my journey — from banking to insurance — I realized I’ve always been surrounded by data. Whether it was understanding customer behavior, analyzing risk profiles, or processing claims, **data and numbers have consistently played a pivotal role** in every decision.
+## 💼 Experience Snapshot
 
-That realization sparked a passion in me — to not just work **with** data, but to understand it **deeply**.
+**Data Analyst | Pyramidion Solutions**  
+*(June 2021 – Present)*  
 
-So I’ve committed to expanding my capabilities by diving into **Data Science and Machine Learning**. I’m now actively learning how to clean, analyze, visualize, and model data, all with the goal of becoming a well-rounded **Data Professional** who can turn information into impact.
-
-**I believe this is not just a transition — it's a transformation.**
-
----
-
-## 📌 What I've Learned So Far
-
-- ✅ **SQL** – Writing clean queries, joins, window functions, CTEs, subqueries
-- ✅ **Tableau** – Building insightful dashboards, KPI tracking, data storytelling
-
-📚 **Currently Learning**:
-- 🐍 **Python for Data Analysis** – Starting July 14 (Numpy, Pandas, Matplotlib, etc.)
-
-🔜 **Upcoming Learning Modules** in DSML:
-- 📊 **Statistics & Data Analytics Fundamentals**
-- 📈 **Data Visualization Principles**
-- 📦 **Product Analytics & Business Metrics**
-- 🤖 **Machine Learning** – Supervised & Unsupervised models
+• Built dashboards using Power BI & Tableau  
+• Performed SQL-based data extraction and transformation  
+• Conducted RCA and trend analysis  
+• Worked with cross-functional teams for business insights  
+• Built ETL pipelines using Talend & SSIS  
 
 ---
 
-## 💡 My Approach to Learning
+## 🧠 Core Skills
 
-> _“Learn deeply. Apply consistently. Evolve confidently.”_
+✔ SQL – Joins, CTEs, Window Functions, Query Optimization  
+✔ Python – Pandas, NumPy, Data Cleaning, Automation  
+✔ Power BI & Tableau – KPI Dashboards, Business Reporting  
+✔ Excel – Advanced formulas, dashboards, analysis  
 
-I believe in **building mastery through real projects and reflection**. Every repo on this profile is a step in that journey — from SQL queries to dashboards to future ML pipelines.
-
----
-
-## 📂 Projects (Coming Soon...)
-
-- 📊 Tableau Dashboards – Visual stories from real datasets
-- 📂 SQL Projects – Business case analysis using real data
-- 🐍 Python Notebooks – Data wrangling, EDA, and visualizations
-- 🤖 ML Projects – Classification, regression, and clustering (coming soon)
+📊 **Data Skills:**
+- Exploratory Data Analysis (EDA)  
+- Data Cleaning & Transformation  
+- Root Cause Analysis  
+- Statistical Analysis & Forecasting  
 
 ---
 
-## ⚙️ Tools & Technologies
+## 📂 Projects
 
-`SQL` | `Tableau` | `Python` | `Pandas` | `NumPy` | `Jupyter` | `Git` | `GitHub`  
-📦 Planning to add: `Scikit-learn`, `Power BI`, `Seaborn`, `Matplotlib`, `Streamlit`
+🔹 **Healthcare Claims Analysis (Pediatrix)**  
+- Analyzed claim denial patterns using SQL & Python  
+- Built Power BI dashboards for KPI tracking  
+- Improved revenue cycle insights  
+
+🔹 **E-commerce Analytics (Argos)**  
+- Performed sales trend analysis  
+- Built forecasting models using Python  
+- Reduced stockouts by 15%  
+
+---
+
+## 🎯 Current Focus
+
+• Transitioning into Data Science & Machine Learning  
+• Building end-to-end ML projects  
+• Strengthening statistics & model building  
+• Learning Scikit-learn & advanced Python  
+
+---
+
+## 🛠 Tools & Technologies
+
+**Languages:** SQL | Python  
+**Visualization:** Power BI | Tableau | Excel  
+**Libraries:** Pandas | NumPy | Matplotlib  
+**ETL Tools:** Talend | SSIS  
+**Cloud:** AWS (Basics)  
+**Other:** Git | Jupyter Notebook  
 
 ---
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/balachandarsuresh/)
-- 📫 Reach me at: `balachandar2411@gmail.com`
-- 💬 Always open to feedback, collaboration, and knowledge sharing!
+🔗 LinkedIn: *[Add your LinkedIn link]*  
+📧 Email: balachandar2411@gmail.com  
+
+💬 I'm open to Data Analyst / Data Science opportunities, collaborations, and knowledge sharing.
 
 ---
 
-_Thanks for being a part of my journey. Follow along — the best is yet to come._  
-— **Balachandar Suresh**
+⭐ *Thanks for visiting my profile — let's build something impactful with data!*
 
--->
+
+
